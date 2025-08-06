@@ -19,7 +19,7 @@
 `C#` • `.NET` • `Delphi` • `Python` • `ASP.NET` • `FastAPI`  
 
 **Databases & Tools:**  
-`SQL Server` • `Oracle` • `Devart UniDAC` • `Stimulsoft`  
+`SQL Server` • `Oracle` • `Stimulsoft`  
 
 **Version Control & Others:**  
 `Git` • `GitHub` • `Scrum`
